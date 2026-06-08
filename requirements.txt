@@ -1,0 +1,7 @@
+sentence-transformers
+chromadb
+groq
+python-dotenv
+langchain
+langchain-community
+gradio>=4.0.0
